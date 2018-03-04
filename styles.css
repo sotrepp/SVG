@@ -79,3 +79,12 @@ p{
     fill: gray;
     transform: scale(1.2);
 }
+
+.Martin:hover{
+    fill: red;
+}
+
+.Martin:active{
+    fill: gray;
+    transform: scale(1.2);
+}
